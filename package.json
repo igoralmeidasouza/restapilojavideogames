@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lndsilva/restapilojavideogames.git"
+    "url": "git+https://github.com/igoralmeidasouza/restapilojavideogames.git"
   },
   "keywords": [],
-  "author": "Laércio N. Silva",
+  "author": "Igor de Almeida Souza",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lndsilva/restapilojavideogames/issues"
+    "url": "https://github.com/igoralmeidasouza/restapilojavideogames/issues"
   },
-  "homepage": "https://github.com/lndsilva/restapilojavideogames#readme",
+  "homepage": "https://github.com/igoralmeidasouza/restapilojavideogames#readme",
   "dependencies": {
     "json-server": "^0.16.3"
   }
