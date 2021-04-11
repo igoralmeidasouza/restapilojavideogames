@@ -18,7 +18,8 @@
     "url": "https://github.com/igoralmeidasouza/restapilojavideogames/issues"
   },
   "homepage": "https://github.com/igoralmeidasouza/restapilojavideogames#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "json-server": "^0.16.3"
   }
 }
